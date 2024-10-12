@@ -1,0 +1,8 @@
+#TODO: aggiungere script per la rimozione di elementi dal carrello e aggiornamento prezzo e quantita tot
+#TODO: aggiungere input per la selezione della categoria di prodotti da visualizzare basata su quelle contenute in dummyJSON
+#TODO: aggiungere css per transizione e animazioni pagina
+
+EXTRA
+
+- pagina per la simulazione di un checkout
+- ricerca prodotti 
