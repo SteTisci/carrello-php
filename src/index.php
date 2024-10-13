@@ -9,6 +9,7 @@
     <title>Shopping Cart</title>
 
     <?php include "script.php" ?>
+
 </head>
 
 <body>
